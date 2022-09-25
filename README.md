@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-S9080 (b0q)
+# Android device tree for Samsung SM-S9080 (b0q)
 
 ```
 #
