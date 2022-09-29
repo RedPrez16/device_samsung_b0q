@@ -1359,7 +1359,7 @@ vendor/lib64/libthermalclient.so
 vendor/etc/thermal-engine.conf
 
 # Time services
-vendor/app/TimeService/TimeService.apk
+-vendor/app/TimeService/TimeService.apk
 vendor/bin/time_daemon
 vendor/etc/init/init.time_daemon.rc
 vendor/lib/libtime_genoff.so
@@ -1417,9 +1417,9 @@ vendor/etc/wifi/wpa_supplicant_overlay.conf
 # Miscellaneous
 vendor/apex/com.samsung.android.camera.qciq.signed.apex
 vendor/apex/com.samsung.android.camera.unihal.signed.apex
-vendor/app/CACertService/CACertService.apk
-vendor/app/QCC-TR-UI/QCC-TR-UI.apk
-vendor/app/com.qualcomm.qti.gpudrivers.taro.api31/com.qualcomm.qti.gpudrivers.taro.api31.apk
+-vendor/app/CACertService/CACertService.apk
+-vendor/app/QCC-TR-UI/QCC-TR-UI.apk
+-vendor/app/com.qualcomm.qti.gpudrivers.taro.api31/com.qualcomm.qti.gpudrivers.taro.api31.apk
 vendor/bin/hw/android.hardware.security.keymint-service
 vendor/bin/hw/capabilityconfigstoretest
 vendor/bin/hw/macloader
